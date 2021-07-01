@@ -20,7 +20,7 @@ Hi, there! I'm Rafael 🙋‍♂️
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" margin-top='20px' src="https://i.ibb.co/JK9XVPb/expressjs.png"></code>
+  <code><img width="10%" margin='20px' src="https://i.ibb.co/JK9XVPb/expressjs.png"></code>
   <code><img width="10%" height="70px"src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"></code>
   <code><img width="10%" src="https://vistapointe.net/images/mongoose-noda-wallpaper-6.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
