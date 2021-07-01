@@ -42,15 +42,15 @@ Hi, there! I'm Rafael 🙋‍♂️
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
 </p>
 
-<h3>Pedidotopia</h3>
+<!-- <h3>Proyectname</h3>
 <p>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
-</p> 
+</p>  -->
 &nbsp;
 
-## :paperclip: How to reach me:
+## :paperclip: Contact me
 <span >
 <a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;
 <a href="mailto:mossettorafael@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
