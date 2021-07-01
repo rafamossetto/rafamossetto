@@ -2,13 +2,13 @@
 Hi, there! I'm Rafael 🙋‍♂️
 </h1>
 <h2 align="center">
-Full Stack Development 👨‍💻 from Argentina to :earth_americas:!
+👨‍💻 Full Stack Development from Argentina to :earth_americas:!
 </h2>
 
 &nbsp;&nbsp;
 
 
-## :star: Languages and Tools:
+## :star: Languages and Tools 🔨:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
