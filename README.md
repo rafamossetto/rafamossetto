@@ -21,7 +21,7 @@ Hi, there! I'm Rafael 🙋‍♂️
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" height='50px' src="https://github.com/rafamossetto/rafamossetto/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%" height="50px"src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"></code>
+  <code><img width="10%" height="70px"src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"></code>
   <code><img width="10%" src="https://vistapointe.net/images/mongoose-noda-wallpaper-6.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
