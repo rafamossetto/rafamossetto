@@ -17,7 +17,7 @@ Hi, there! I'm Rafael 🙋‍♂️
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
+  <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
@@ -32,14 +32,14 @@ Hi, there! I'm Rafael 🙋‍♂️
 &nbsp;
 
 ## :pushpin: My proyects
-  Videogames App
+  <h3> 🎮 Videogames App 🕹</h3>
 <p>
-  <a><img src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/landing.png"></a>
-  <a><img src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/home.png"></a>
+  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/landing.png"></a>
+  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/home.png"></a>
 </p>
 <p>
-  <a><img src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/game.png"></a>
-  <a><img src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/form.png"></a>
+  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/game.png"></a>
+  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/form.png"></a>
 </p>
 
 <!-- <h3>Proyectname</h3>
