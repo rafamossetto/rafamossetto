@@ -52,7 +52,7 @@ Full Stack Development 👨‍💻 from Argentina to :earth_americas:!
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;
+<a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png"> &nbsp;
 <a href="mailto:mossettorafael@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
 
