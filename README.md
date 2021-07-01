@@ -34,12 +34,12 @@ Hi, there! I'm Rafael 🙋‍♂️
 ## :pushpin: My proyects
   <h3> 🎮 Videogames App 🕹</h3>
 <p>
-  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/landing.png"></a>
-  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/home.png"></a>
+  <a><img width='280px' height='125px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/landing.png"></a>
+  <a><img width='280px' height='125px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/home.png"></a>
 </p>
 <p>
-  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/game.png"></a>
-  <a><img width='125px' height='280px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/form.png"></a>
+  <a><img width='280px' height='125px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/game.png"></a>
+  <a><img width='280px' height='125px'' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/form.png"></a>
 </p>
 
 <!-- <h3>Proyectname</h3>
