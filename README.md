@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi, there! I'm Rafael
+Hi, there! I'm Rafael 🙋‍♂️
 </h1>
 <h2 align="center">
-Full Stack Development from Argentina to :earth_americas:
+Full Stack Development 👨‍💻 from Argentina to :earth_americas:!
 </h2>
 
 &nbsp;&nbsp;
