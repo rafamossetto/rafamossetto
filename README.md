@@ -32,7 +32,7 @@ Hi, there! I'm Rafael 🙋‍♂️
 &nbsp;
 
 ## :pushpin: My proyects
-  <h3> 🎮 Videogames App 🕹</h3>
+  <h3><a href='https://github.com/rafamossetto/PI-Videogames-FT13'>🎮 Videogames App 🕹</a></h3>
 <p>
   <a><img width='300px' height='200px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/landing.png"></a>
   <a><img width='300px' height='200px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/home.png"></a>
