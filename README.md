@@ -1,6 +1,5 @@
-<h1 align="center">
-Hi, there! 🙋‍♂️
-</h1>
+<h1 align='center'>Hi, there! 🙋‍♂️</h1>
+
 <h2 align="center">
 👨‍💻 Full Stack Development from Argentina to :earth_americas:!
 </h2>
@@ -31,7 +30,12 @@ Hi, there! 🙋‍♂️
 
 &nbsp;
 
-## :pushpin: My projects
+## :pushpin: My current work proyect
+<img width="1536" alt="image" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">
+
+
+
+## :pushpin: My personal projects
   <h3><a href='https://github.com/rafamossetto/PI-Videogames-FT13'>🎮 Videogames App 🕹</a></h3>
 <p>
   <a><img width='300px' height='200px' src="https://github.com/rafamossetto/rafamossetto/blob/main/screenshots/landing.png"></a>
@@ -49,7 +53,7 @@ Hi, there! 🙋‍♂️
 
 ## :paperclip: Contact me
 <span >
-<a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"> &nbsp; &nbsp;
 <a href="mailto:mossettorafael@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
 </span>
 
