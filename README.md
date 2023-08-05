@@ -1,7 +1,7 @@
 <h1 align='center'>Hi, there! 🙋‍♂️</h1>
 
 <h2 align="center">
-👨‍💻 Full Stack Development from Argentina to :earth_americas:!
+👨‍💻 Software Development from Argentina to :earth_americas:!
 </h2>
 
 &nbsp;&nbsp;
