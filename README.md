@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, there! 🙋‍♂️</h1>
+[[<h1 align='center'>Hi, there! 🙋‍♂️</h1>
 
 <h2 align="center">
 👨‍💻 Software Development from Argentina to :earth_americas:!
@@ -31,7 +31,11 @@
 &nbsp;
 
 ## :pushpin: My current work proyect
-<a href='https://personalpay.com.ar/'><img width="1536" alt="image" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc"></a>
+<a href='https://personalpay.com.ar/' target='_blank'>
+  <picture>
+<img width="1536" alt="image" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">
+  </picture>
+</a>
 
 
 
@@ -57,3 +61,4 @@
 <a href="mailto:mossettorafael@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
 </span>
 
+](url)](url)
