@@ -31,10 +31,7 @@
 &nbsp;
 
 ## :pushpin: My current work proyect
-
-[<img src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](http://google.com.au/)
-[![Foo](https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc)](http://google.com.au/)
-
+[<img target="_blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](http://google.com.au/)
 
 
 ## :pushpin: My personal projects
