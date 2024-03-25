@@ -31,7 +31,7 @@
 &nbsp;
 
 ## :pushpin: My current work proyect
-[<img target="_blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](http://google.com.au/)
+[<img target="_blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](https://www.personalpay.com.ar/)
 
 
 ## :pushpin: My personal projects
