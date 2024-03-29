@@ -40,7 +40,7 @@
 
 ## :pushpin: My current work proyect
 <a target="_blank" href="https://www.personalpay.com.ar/">
-[<img src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">]
+<img src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">
 </a>
 
 ## :pushpin: My personal projects
@@ -60,7 +60,7 @@
 
 
 ## :paperclip: Contact me
-<span >
-<a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"> &nbsp; &nbsp;
+<span>
+<a href="https://www.linkedin.com/in/rafamossetto" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
 <a href="mailto:mossettorafael@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png">
 </span>
