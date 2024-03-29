@@ -27,6 +27,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastify_logo.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://keenethics.com/wp-content/uploads/2022/01/react-native-1.svg"></code>
   <code><img width="10%" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png"></code>
