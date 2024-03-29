@@ -38,8 +38,9 @@
 &nbsp;
 
 ## :pushpin: My current work proyect
-[<img target="blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](https://www.personalpay.com.ar/)
-
+<a href="https://www.personalpay.com.ar/" target="_blank">
+[<img target="_blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">]
+</a>
 
 ## :pushpin: My personal projects
   <h3><a href='https://github.com/rafamossetto/PI-Videogames-FT13'>🎮 Videogames App 🕹</a></h3>
