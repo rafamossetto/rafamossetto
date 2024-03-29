@@ -26,12 +26,19 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
+  <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+  <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"></code>
+  <code><img width="10%" src="https://keenethics.com/wp-content/uploads/2022/01/react-native-1.svg"></code>
+  <code><img width="10%" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png"></code>
+  <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Datadog_logo.svg"></code>
+  <code><img width="10%" src="https://www.grupobits.co/wp-content/uploads/2020/05/kibana.svg"></code>
+  <code><img width="10%" src="https://miro.medium.com/v2/resize:fit:1400/1*Jed-UVwaIqf16oq5f8ATDQ.png"></code>
 </p>
 
 &nbsp;
 
 ## :pushpin: My current work proyect
-[<img target="_blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](https://www.personalpay.com.ar/)
+[<img target="blank" src="https://github.com/rafamossetto/rafamossetto/assets/80932298/71459a1e-d2c2-4ae4-bb47-58b77ba2aebc">](https://www.personalpay.com.ar/)
 
 
 ## :pushpin: My personal projects
